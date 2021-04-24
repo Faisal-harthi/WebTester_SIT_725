@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+input{
+  width:150px;
+  border-color: b;
+}
+
+#trusted{
+  display: none;
+}
+#fake{
+  display: none;
+}
+#validation{
+  display: none;
+}
